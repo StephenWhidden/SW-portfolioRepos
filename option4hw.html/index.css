@@ -1,0 +1,48 @@
+.col-10 {
+    background-color: #EAEEE9;
+}
+
+/* .shots {
+    height: 700px;
+    margin-bottom: 0;
+    width: 400px;
+    justify-content: center;
+} */
+
+.list {
+    height: 200px;
+}
+
+.links {
+    align: center;
+    width: 230px;
+}
+
+.post-meta {
+    font-size: 15px;
+    font-weight: 600;
+    color: grey;
+}
+
+.homelist {
+    color: grey;
+}
+
+a {
+    color: grey;
+}
+
+.cr {
+    color: grey;
+    font-style: italic;
+}
+
+.name {
+    font-weight: bold;
+}
+
+
+.dir-row{
+    flex-direction: row;
+}
+
