@@ -1,5 +1,5 @@
 .full-page {
-    height: 830px;
+    height: 900px;
 }
 
 .col {
@@ -8,6 +8,7 @@
 
 .col-2 {
     color: grey;
+    margin-top: 378px;
 }
 
 .col-6 {
@@ -22,36 +23,73 @@ h6 {
     color: black;
 }
 
+.pcon {
+    color: black;
+    font-weight:800;
+    font-size: 20px;
+}
 
-/* All the weird shit below */
+.cardcol1 {
+    max-width: 238px;
+    margin-left: 230px;
+}
 
+.cardcol2 {
+    margin-right: 0px;
+    max-width: 238px;
+}
+
+.form3 {
+    height: 100px;
+}
 
 .creative-portfolio {
-    /* text-align: end;
+    text-align: end;
     margin-right: 0px;
-    padding-right: 35px; */
+    padding-right: 35px;
+
+}
+
+.port-btn {
+    margin-left: 235px;
 }
 
 .listcol {
-    /* margin: 0px;
+    margin: 0px;
     padding: 0px;
-    padding-right: 35px;
-} */
+    padding-right: 220px;
+
+}
 
 .list-group {
     /* justify-content: center; */
 }
 
 .dir-row{
-    /* flex-direction: row;
+    flex-direction: row;
     font-size: 7px;
-    justify-content: end; */
+    justify-content: end;
 }
 
 .imgrow {
-    /* justify-content: center; */
+    justify-content: center;
 }
 
 .img6 {
     height: 190px;
+    margin: 10px;
+}
+
+.port-li{
+    background-color: transparent ;
+    border: 0px;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+img {
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
 }
