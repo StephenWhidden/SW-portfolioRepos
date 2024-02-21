@@ -2,12 +2,21 @@
     background-color: #EAEEE9;
 }
 
-/* .shots {
-    height: 700px;
-    margin-bottom: 0;
-    width: 400px;
-    justify-content: center;
-} */
+.col-5 {
+    background-color: #EAEEE9;
+    padding-top: 50px;
+    padding-bottom: 90px;
+
+}
+
+
+.col {
+    background-color: #EAEEE9;
+}
+
+* {
+    color: gray;
+}
 
 .list {
     height: 200px;
@@ -26,7 +35,17 @@
 
 .homelist {
     color: grey;
+    margin-top: 380px;
+    margin-left: 50px;
+    width: 80px;
+    font-size: 20px;
 }
+
+li {margin-top: 3px;
+    margin-bottom: 3px;    
+}
+
+
 
 a {
     color: grey;
@@ -35,6 +54,8 @@ a {
 .cr {
     color: grey;
     font-style: italic;
+    margin-left: 30px;
+    font-size: 20px;
 }
 
 .name {
@@ -67,14 +88,14 @@ a {
     padding: 5px;
 }
 
-.imgrow {
-    justify-content: center;
-}
-
-img{
+.img-thumbnail{
     padding: 10px;
     width: 250px;
     height: 250px;
+}
+
+img {
+    height: 190px;
 }
 
 .btn-con {
@@ -85,3 +106,6 @@ img{
     margin-top: 15px;
 }
 
+.input {
+    width:max-content;
+}

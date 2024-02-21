@@ -1,0 +1,57 @@
+.full-page {
+    height: 830px;
+}
+
+.col {
+    background-color: #EAEEE9;
+}
+
+.col-2 {
+    color: grey;
+}
+
+.col-6 {
+    background-color: #EAEEE9;
+}
+
+* {
+    color: gray;
+}
+
+h6 {
+    color: black;
+}
+
+
+/* All the weird shit below */
+
+
+.creative-portfolio {
+    /* text-align: end;
+    margin-right: 0px;
+    padding-right: 35px; */
+}
+
+.listcol {
+    /* margin: 0px;
+    padding: 0px;
+    padding-right: 35px;
+} */
+
+.list-group {
+    /* justify-content: center; */
+}
+
+.dir-row{
+    /* flex-direction: row;
+    font-size: 7px;
+    justify-content: end; */
+}
+
+.imgrow {
+    /* justify-content: center; */
+}
+
+.img6 {
+    height: 190px;
+}
